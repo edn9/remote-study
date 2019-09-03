@@ -22,6 +22,9 @@ I will be posting here some useful links that may help you to find a work or stu
 
 - <a href="http://www.brasilmaisti.com.br/index.php/pt-br/">Brasil Mais TI - Cursos gratuitos com certificado</a> - Cursos online gratuitos com certificado. Tenha acesso a diversos cursos da área de tecnologia.
 
+- <a href="https://www.codewars.com/">Codewars</a> - Codewars is where developers achieve code mastery through challenge. Train on kata in the dojo and reach your highest potential.
+
+- <a href="https://flexboxfroggy.com/">Flexbox Froggy</a> - A game for learning CSS flexbox. Expert - No Directions & Random Levels. Colorblind Mode.
 
 ## Work
 

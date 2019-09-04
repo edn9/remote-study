@@ -8,7 +8,7 @@ I will be posting here some useful links that may help you to find a work or stu
 
 - <a href="https://www.freecodecamp.org/">freeCodeCamp</a> - Learn to code for free.
 
-- <a href="https://www.urionlinejudge.com.br">URI Online Judge</a> - The URI Online Judge is a project that is being developed by the Computer Science Department of URI University. The main goal of the project is to provide programming practice and knowledge sharing.
+- <a href="https://www.urionlinejudge.com.br">URI Online Judge</a> - The URI Online Judge is a project that is being developed by the Computer Science Department of URI University. The main goal of the project is to provide programming practice and knowledge sharing. <a href="https://github.com/edn9/uri">*</a>
 
 - <a href="https://devdocs.io/">DevDocs.io</a> - DevDocs combines multiple API documentations in a fast, organized, and searchable interface.
 

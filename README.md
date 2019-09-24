@@ -38,6 +38,8 @@ I will be posting here some useful links that may help you to find a work or stu
 
 - <a href="https://codeasy.net/">Codeasy</a> - Read adventure story and learn C# programming language having lots of fun!
 
+- <a href="https://github.com/felipefialho/frontend-challenges">frontend-challenges
+</a> - Listing some playful open-source's challenges of jobs to test your knowledge 
 
  <!--
 - <a href=""></a> - 
@@ -59,3 +61,6 @@ I will be posting here some useful links that may help you to find a work or stu
 
 - <a href="https://github.com/ti-no-canada/imigracao-para-o-canada#sites-com-possibilidades-de-trabalho-remoto-em-tempo-integral-ou-freelance-para-ajudar-nos-planos-financeiros-de-imigra%C3%A7%C3%A3o">Imigração-para-o-Canada.jobs
 </a> - Sites com possibilidades de trabalho remoto em tempo integral ou freelance para ajudar nos planos financeiros de imigração.
+
+- <a href="https://www.itjobs.pt/">ITJobs</a> - Emprego e Formação em Tecnologias de Informação (Portugal/Remoto)
+

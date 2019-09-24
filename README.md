@@ -26,6 +26,23 @@ I will be posting here some useful links that may help you to find a work or stu
 
 - <a href="https://flexboxfroggy.com/">Flexbox Froggy</a> - A game for learning CSS flexbox. Expert - No Directions & Random Levels. Colorblind Mode.
 
+- <a href="https://www.efset.org/">EF Standard English Test (EF SET)</a> - Test Your English Skills and Set Yourself Apart (Certificate)
+
+- <a href="https://ocw.mit.edu/index.htm">MIT OpenCourseWare</a> - MIT OpenCourseWare is a web-based publication of virtually all MIT course content. OCW is open and available to the world and is a permanent MIT activity.
+
+- <a href="https://dash.generalassemb.ly/">Dash</a> - Dash is a fun and free online course that teaches you the basics of web development through projects you can do in your browser.
+
+- <a href="https://www.theodinproject.com/home">The Odin Project</a> - Our full stack curriculum is free and supported by a passionate open source community.
+
+- <a href="https://www.edx.org/">edX</a> - Access 2000 free online courses from 140 leading institutions worldwide. Gain new skills and earn a certificate of completion. Join today.
+
+- <a href="https://codeasy.net/">Codeasy</a> - Read adventure story and learn C# programming language having lots of fun!
+
+
+ <!--
+- <a href=""></a> - 
+-->
+
 ## Work
 
 - <a href="https://vulpi.com.br/">Vulpi</a> - Utilize a Vulpi para contratar desenvolvedores ou encontrar oportunidades de TI em BH, SP e outras cidades. Startup de RHTech de BH.

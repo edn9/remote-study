@@ -41,6 +41,8 @@ I will be posting here some useful links that may help you to find a work or stu
 - <a href="https://github.com/felipefialho/frontend-challenges">frontend-challenges
 </a> - Listing some playful open-source's challenges of jobs to test your knowledge 
 
+- <a href="https://github.com/ossu/computer-science">OSSU, Open Source Society University</a> - Path to a free self-taught education in Computer Science! 
+
  <!--
 - <a href=""></a> - 
 -->

@@ -1,14 +1,16 @@
 # remote-study
+
 I will be posting here some useful links that may help you to find a work or study material, English and Portuguese lenguage.
 
 ## Study
+
 - <a href="https://rocketseat.com.br/">Rocketseat | A menor distância entre você e seus objetivos</a> - Transforme sua carreira e seja um programador desejado no mercado, dominando as ferramentas mais modernas de desenvolvimento web e mobile.
 
 - <a href="https://www.alura.com.br/">Alura | Cursos online de tecnologia</a> - Aprenda Programação, Mobile, Front-end, Design, UX, Infraestrutura, Marketing Digital e Data & BI com didática inovadora.
 
 - <a href="https://www.freecodecamp.org/">freeCodeCamp</a> - Learn to code for free.
 
-- <a href="https://www.urionlinejudge.com.br">URI Online Judge</a> - The URI Online Judge is a project that is being developed by the Computer Science Department of URI University. The main goal of the project is to provide programming practice and knowledge sharing. <a href="https://github.com/edn9/uri">*</a>
+- <a href="https://www.urionlinejudge.com.br">URI Online Judge</a> - The URI Online Judge is a project that is being developed by the Computer Science Department of URI University. The main goal of the project is to provide programming practice and knowledge sharing. <a href="https://github.com/edn9/uri">\*</a>
 
 - <a href="https://devdocs.io/">DevDocs.io</a> - DevDocs combines multiple API documentations in a fast, organized, and searchable interface.
 
@@ -39,7 +41,10 @@ I will be posting here some useful links that may help you to find a work or stu
 - <a href="https://codeasy.net/">Codeasy</a> - Read adventure story and learn C# programming language having lots of fun!
 
 - <a href="https://github.com/felipefialho/frontend-challenges">frontend-challenges
-</a> - Listing some playful open-source's challenges of jobs to test your knowledge 
+  </a> - Listing some playful open-source's challenges of jobs to test your knowledge
+
+- <a href="https://digitalinnovation.one/"> Digital Innovation One</a> -
+  Uma comunidade com +20 mil desenvolvedores e +500 atividades técnicas para você aprender e praticar.
 
 - <a href="https://github.com/ossu/computer-science">OSSU, Open Source Society University</a> - Path to a free self-taught education in Computer Science! 
 
@@ -64,7 +69,6 @@ I will be posting here some useful links that may help you to find a work or stu
 - <a href="https://programathor.com.br/">ProgramaThor - Oportunidades para Desenvolvedores</a> - Oportunidades de trabalho e vagas de programação em Java, PHP, Ruby, iOS, Android, Javascript, Python, Objective-C, C#,... para você!
 
 - <a href="https://github.com/ti-no-canada/imigracao-para-o-canada#sites-com-possibilidades-de-trabalho-remoto-em-tempo-integral-ou-freelance-para-ajudar-nos-planos-financeiros-de-imigra%C3%A7%C3%A3o">Imigração-para-o-Canada.jobs
-</a> - Sites com possibilidades de trabalho remoto em tempo integral ou freelance para ajudar nos planos financeiros de imigração.
+  </a> - Sites com possibilidades de trabalho remoto em tempo integral ou freelance para ajudar nos planos financeiros de imigração.
 
 - <a href="https://www.itjobs.pt/">ITJobs</a> - Emprego e Formação em Tecnologias de Informação (Portugal/Remoto)
-
